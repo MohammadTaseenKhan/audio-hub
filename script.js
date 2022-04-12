@@ -44,6 +44,29 @@ function _defineProperty(obj, key, value) {if (key in obj) {Object.definePropert
         audio:
         "https://github.com/MohammadTaseenKhan/audio-hub/blob/main/Fatih%20Y%C4%B1lmaz%20&%20Amorf%20-%20Menak%20(Arabic%20Trap)-DBAr8tl4ZpY.mp3?raw=true",
         duration: "2:26" },
+{
+        name: "Balti - Ya Lili feat",
+        author: "ERS Remix",
+        img: "https://i.ytimg.com/an_webp/BLlo7rMXI_Q/mqdefault_6s.webp?du=3000&sqp=CJz11pIG&rs=AOn4CLAyMfoe4-NkUUT-vgjvJLDBevIgpA",
+        audio:
+        "https://github.com/MohammadTaseenKhan/audio-hub/blob/main/Balti%20-%20Ya%20Lili%20feat.%20Hamouda%20(ERS%20Remix)%20_%20Overdrive%20Stealing%20%5BCar%20Scene%5D.mp3?raw=true",
+        duration: "1:50" },
+{
+        name: "Best Hacker music",
+        author: "Deface",
+        img: "https://i.ytimg.com/an_webp/Z-VfaG9ZN_U/mqdefault_6s.webp?du=3000&sqp=CL_m1pIG&rs=AOn4CLCvAEttMvhCFA0-ftIt-yuyWY96hQ",
+        audio:
+        "https://github.com/MohammadTaseenKhan/audio-hub/blob/main/Best%20Hacker%20music%20%20%20Deface%20Music%20EVER.mp3?raw=true",
+        duration: "4:30" },
+
+        {
+                name: "Coke Studio Season 14 Pasoori",
+                author: "Ali Sethi & Shae Gill",
+                img: "https://i.ytimg.com/an_webp/5Eqb_-j3FDA/mqdefault_6s.webp?du=3000&sqp=CICA15IG&rs=AOn4CLDjr2_CFx5Qcd5n0TRBSPQ6xxwcLQ",
+                audio:
+                "https://github.com/MohammadTaseenKhan/audio-hub/blob/main/Coke%20Studio%20_%20Season%2014%20_%20Pasoori%20_%20Ali%20Sethi%20x%20Shae%20Gill.mp3?raw=true",
+                duration: "4:30" },
+
 
       {
         name: "Humood - Kun Anta",
